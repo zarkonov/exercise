@@ -1,0 +1,19 @@
+{
+  "name": "cypres_exercise",
+  "version": "1.0.0",
+  "description": "automated test sample",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.2",
+    "prettier": "^2.6.1"
+  }
+}
